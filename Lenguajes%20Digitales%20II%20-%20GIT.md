@@ -60,7 +60,7 @@ Una vez confirmado, elimine la rama feature-carrito y verifique que ya no aparec
 Comience a trabajar en los estilos del footer: abra styles.css en VS Code y agrega una clase .footer con varias propiedades.
 Guarda pero no hagas commit.
 Imagine que un tercero me pide una corrección urgente en el título de la página, guarde temporalmente su trabajo con stash y verifique en VS Code que los cambios desaparecieron del archivo.
-Cree y cambie a una rama hotfix-titulo, corrija ell <h1> en index.html desde el editor y haga commit. 
+Cree y cambie a una rama hotfix-titulo, corrija el h1 en index.html desde el editor y haga commit. 
 Regrese a la rama principal, consulte la lista de stashes y recupere tu trabajo guardado.
 
 ### EJERCICIO 9: Deshacer un commit ya publicado (revert)
