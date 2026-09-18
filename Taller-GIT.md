@@ -1,8 +1,7 @@
-## Actividad en Clase
-# GIT: Ciclo de Vida y Comandos Básicos
-Como desarrollor/a necesitará usar Git como sistema de gestión de cambios de su repositorio, este ejercicio guiado le ayudará a familiarizarse con los comandos básicos y un recordatorio de HTML y CSS. Para esta actividad será calificado su manejo de GIT, recuerde que según las pautas de clase, puede usar la inteligencia artificial como herramienta para sugerir mejoras o dar sugerencias de solución de código.
+# Actividad en Clase - GIT: Ciclo de Vida y Comandos Básicos
+En desarrollo necesitará usar Git como sistema de gestión de cambios de su repositorio, este ejercicio guiado le ayudará a familiarizarse con los comandos básicos y un recordatorio de HTML y CSS. **Para esta actividad será calificado su manejo de GIT**, _recuerde que según las pautas de clase, puede usar la inteligencia artificial como herramienta para sugerir mejoras o solución de código._
 
-Nota: Para este taller, toda creación, edición o eliminación de archivos y carpetas debe hacerse desde el editor de código (VS Code) o el explorador de archivos, no desde la terminal. Las únicas líneas de comando que escribirás son de Git.
+_Nota: Para este taller, toda creación, edición o eliminación de archivos y carpetas debe hacerse desde el editor de código (VS Code) o el explorador de archivos, no desde la terminal. Las únicas líneas de comando que escribirás son de Git._
 
 ### EJERCICIO 0: Clonar un repositorio y primer commit
 1. Ingrese a GitHub desde tu navegador y busque el repositorio.
