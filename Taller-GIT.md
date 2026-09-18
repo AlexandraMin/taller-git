@@ -1,8 +1,19 @@
-# Actividad en Clase - GIT: Ciclo de Vida y Comandos Básicos
+# GIT: Ciclo de Vida y Comandos Básicos
+### Actividad en Clase
+Universidad el Bosque		
+<br/>
+Facultad de Comunicación y Creación 
+<br/>
+Programa de Creación Digital 
+<br/>
+<br/>
+<br/>
 En desarrollo necesitará usar Git como sistema de gestión de cambios de su repositorio, este ejercicio guiado le ayudará a familiarizarse con los comandos básicos y un recordatorio de HTML y CSS. **Para esta actividad será calificado su manejo de GIT**, _recuerde que según las pautas de clase, puede usar la inteligencia artificial como herramienta para sugerir mejoras o solución de código._
 
 _Nota: Para este taller, toda creación, edición o eliminación de archivos y carpetas debe hacerse desde el editor de código (VS Code) o el explorador de archivos, no desde la terminal. Las únicas líneas de comando que escribirás son de Git._
-
+<br/>
+<br/>
+<br/>
 ### EJERCICIO 0: Clonar un repositorio y primer commit
 1. Ingrese a GitHub desde tu navegador y busque el repositorio.
 2. Abra el repositorio, haga clic en el botón verde "Code" y copie la URL en formato HTTPS. 
@@ -99,6 +110,9 @@ Una vez revisado, fusione los cambios y confirme en VS Code que el README.md apa
 7. Regrese a la rama principal, fusione la funcionalidad, suba los cambios actualizados al remoto y finalmente elimine la rama tanto en local como en GitHub.
 8. Verifique el listado completo de ramas para confirmar la limpieza.
 
+<br/>
+<br/>
+<br/>
 
 ### Tabla de Resumen de Comandos de Git más utilizados
 
